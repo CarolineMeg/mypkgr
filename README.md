@@ -26,4 +26,6 @@ This is a basic example which shows you how to solve a common problem:
 ``` r
 library(mypkgr)
 ## basic example code
+print("goodbye")
+#> [1] "goodbye"
 ```
