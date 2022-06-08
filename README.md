@@ -31,3 +31,5 @@ library(mypkgr)
 print("hello")
 #> [1] "hello"
 ```
+
+# Test de cours
