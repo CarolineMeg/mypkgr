@@ -38,3 +38,4 @@ library(mypkgr)
 ## basic example code
 print("hello")
 ```
+# Test de cours
